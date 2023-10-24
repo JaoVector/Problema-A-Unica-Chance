@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\bin\Debug\net6.0\2496_A_Unica_Chance.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\bin\Debug\net6.0\2496_A_Unica_Chance.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\bin\Debug\net6.0\2496_A_Unica_Chance.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\bin\Debug\net6.0\2496_A_Unica_Chance.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\bin\Debug\net6.0\2496_A_Unica_Chance.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\refint\2496_A_Unica_Chance.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\2496_A_Unica_Chance.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2496_A_Unica_Chance\obj\Debug\net6.0\ref\2496_A_Unica_Chance.dll
